@@ -1,5 +1,5 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
+# NAME : RAHUL V
+# REG NO : 212223240132
 # Echoserver
 Echo server and client using python socket
 # AIM:
